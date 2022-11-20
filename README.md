@@ -1,4 +1,4 @@
-# Akshita-s-Research
+# Akshita's Research
 
 ## Introduction
 Hi! I am a fourth-year physics undergraduate student with a data science minor at IISER Thiruvananthapuram. 
