@@ -18,7 +18,7 @@ With Dr Frank Ohme and Dr Krishnendu V Nair
 * Evaluated SNRs for some simulated GW events and 
 * Analysed SNR dependance on masses and distances of mergers
 
-### PHY5132 Project / Estimating the Hubble parameter / 2022
+### PHY5132 Project / Estimating the Hubble Parameter / 2022
 With Shubham Chury
 * To constrain the values of the Hubble parameter
 * Analysed the event GW170817 and found posteriors on luminosity distance, psi and phase
