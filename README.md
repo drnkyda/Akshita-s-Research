@@ -17,6 +17,12 @@ With Dr Frank Ohme and Dr Krishnendu V Nair
 * The aim of this project was prediction of the results of the next-generation gravitational-wave detectors (ET and CE)
 * We evaluated SNRs for some simulated GW events and analysed the SNR dependance on masses and distances of mergers.
 
+### PHY5132 Project / Estimating the Hubble parameter / 2022
+With Shubham Chury
+* The aim of this project was to constrain the values of the Hubble parameter.
+* We analysed the event GW170817 and found posteriors on luminosity distance, psi and phase.
+* We also compared the the waveform models IMRPhenomPv2, SpinTaylorT4 and IMRPhenomPv2_NRTidal.
+
 ### IISER Thiruvananthapuram, IUCAA Pune / Minor Project / 2023 (tentative)
 With Dr Shabnam Iyyani and Dr Apratim Ganguly
 * The aim of this project is to conduct predictive analysis in the deci-hertz region of gravitational-wave astronomy.
